@@ -1,0 +1,23 @@
+.gjs-one-bg {
+  background-color: #21252B !important
+}
+
+.gjs-one-bg {
+  background-color: #2f333d !important
+}
+
+.gjs-two-color {
+  color: #cccccc !important
+}
+
+.gjs-three-color {
+  color: red !important
+}
+
+.gjs-four-color {
+  color: #95b9ff !important
+}
+
+.gjs-four-color-h:hover {
+  color: #95b9ff !important
+}

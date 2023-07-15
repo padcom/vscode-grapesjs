@@ -1,0 +1,10 @@
+{
+    "editor.insertSpaces": false,
+    "cSpell.words": [
+        "flexbox",
+        "grapesjs"
+    ],
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    },
+}
